@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zeyu Zhu's Personal Webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I‘m a fourth year undergraduate student from [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm#), [Xi'an Jiaotong University](http://en.xjtu.edu.cn). My research interest includes computer vision and machine learning.
+I‘m a fourth year undergraduate student from [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm#), [Xi'an Jiaotong University](http://en.xjtu.edu.cn). My research interest includes computer vision, machine learning and robotics.
 
 A data-driven personal website
 ======
