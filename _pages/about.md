@@ -10,6 +10,8 @@ redirect_from:
 
 I‘m a fourth year undergraduate student from [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm#), [Xi'an Jiaotong University](http://en.xjtu.edu.cn). My research interest includes computer vision, machine learning and robotics.
 
+I am very fortunate to be advised by [Prof. Cao](https://gr.xjtu.edu.cn/en/web/caoxiangyong/home) from [School of Computer Science](http://www.cs.xjtu.edu.cn) and [Prof. Meng](https://gr.xjtu.edu.cn/en/web/dymeng/1) from [School of Mathematics and Statistics](http://math.xjtu.edu.cn)
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
