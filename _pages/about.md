@@ -13,4 +13,4 @@ I‘m a fourth year undergraduate student majoring in Artificial Intelligence fr
 I am very fortunate to be advised by [Prof. Xiangyong Cao](https://gr.xjtu.edu.cn/en/web/caoxiangyong/home) from [School of Computer Science](http://www.cs.xjtu.edu.cn) and [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng/1) from [School of Mathematics and Statistics](http://math.xjtu.edu.cn) during bachelor. And now I'm looking for a Phd position to carry my future research.
 
 If you are interested in my research or have some business idea want to share, feel free to contact me! 
-My email: zeyuzhu2077@gmail.com.
+My email is zeyuzhu2077@gmail.com.
