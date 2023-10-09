@@ -14,7 +14,8 @@ My research interest lies in computer vision and machine learning, and I'm now w
 
 Publication
 ======
-**Research during undergraduate years**
+*Research during undergraduate years*
+
 · **Zeyu Zhu**, Xiangyong Cao, Man Zhou, Junhao Huang, Deyu Meng. "[Probability-based Global Cross-modal Upsampling for Pansharpening.](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Probability-Based_Global_Cross-Modal_Upsampling_for_Pansharpening_CVPR_2023_paper.pdf)" IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
 · Xiangyu Rui, Xiangyong Cao, **Zeyu Zhu**, Zongsheng Yue, and Deyu Meng. "[Unsupervised Pansharpening via Low-rank Diffusion Model.](https://arxiv.org/abs/2305.10925)" Arxiv, 2023.
@@ -23,4 +24,4 @@ Publication
 
 Experience
 ======
-· Research Internship in IDC group, **Shanghai AI Lab**, working on **3D Object Generation**, 2023
+· Research Internship in IDC group, Shanghai AI Lab, working on **3D Object Generation**, 2023
