@@ -24,7 +24,7 @@ Publication
 
 "[Unsupervised Pansharpening via Low-rank Diffusion Model.](https://arxiv.org/abs/2305.10925)" Arxiv, 2023.
 
-· Wenzhe Xiao^, **Zeyu Zhu**^, Qizhou Wang, Pang Li, Chengshu Yong, Deyu Meng, Xiangyong Cao. 
+· Wenzhe Xiao^, **Zeyu Zhu**^, Qizhou Wang, Xiangyong Cao. 
 
 "[TFDSUNet: Time-Frequency Dual-Stream Uncertainty Network for Battery SOH/SOC Prediction.](https://www.researchsquare.com/article/rs-2943579/v1)" Researchsquare, 2023.
 
