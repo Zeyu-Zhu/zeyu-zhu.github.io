@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior undergraduate at [Xi'an Jiaotong University](http://en.xjtu.edu.cn), majoring in Artificial Intelligence from [Institute of Artificial Intelligence and Robotics](http://www.aiar.xjtu.edu.cn/index.htm#). I am very fortunate to be advised by [Prof. Xiangyong Cao](https://gr.xjtu.edu.cn/en/web/caoxiangyong/home) from [School of Computer Science](http://www.cs.xjtu.edu.cn) throughout my undergraduate years.
+I am currently a senior undergraduate at [Xi'an Jiaotong University](http://en.xjtu.edu.cn), majoring in Artificial Intelligence. I am very fortunate to be advised by [Prof. Xiangyong Cao](https://gr.xjtu.edu.cn/en/web/caoxiangyong/home) from [School of Computer Science](http://www.cs.xjtu.edu.cn) throughout my undergraduate years.
 
 I am currently seeking admission to the Ph.D. program at Showlab, NUS.
 
