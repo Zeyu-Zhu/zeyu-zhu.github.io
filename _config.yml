@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-CN"
-title                    : "Zeyu Zhu"
+title                    : "Zeyu's Page"
 title_separator          : "-"
-name                     : &name "Zeyu Zhu"
+name                     : &name "Zeyu(Zayn) Zhu"
 description              : &description "personal description"
 url                      : https://zeyu-zhu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zeyu Zhu"
   avatar           : "../images/profile.png"
-  bio              : "My life is a work of art"
+  bio              : "Fellow the interest!"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
