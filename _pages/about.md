@@ -13,7 +13,7 @@ I am currently a senior undergraduate at [Xi'an Jiaotong University](http://en.x
 My research interest lies in computer vision and machine learning, and I'm working on **3D Object Generation** now.
 
 If you are interested in my research papers or have some business idea want to share, feel free to contact me! 
-My email is zeyuzhu2077@gmail.com.
+My email is **zeyuzhu2077@gmail.com**.
 
 Publication
 ======
