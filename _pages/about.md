@@ -16,7 +16,7 @@ Publication
 ======
 *Research during undergraduate years*
 
-· Xiangyu Rui, Xiangyong Cao, **Zeyu Zhu**, Zongsheng Yue, and Deyu Meng. "[Unsupervised Pansharpening via Low-rank Diffusion Model.](https://arxiv.org/abs/2305.10925)" Information Fusion, 2023.
+· Xiangyu Rui, Xiangyong Cao, Li Pang, **Zeyu Zhu**, Zongsheng Yue, and Deyu Meng. "[Unsupervised hyperspectral pansharpening via low-rank diffusion model](https://www.sciencedirect.com/science/article/abs/pii/S1566253524001039)" Information Fusion, 2024.
 
 · **Zeyu Zhu**, Xiangyong Cao, Man Zhou, Junhao Huang, Deyu Meng. "[Probability-based Global Cross-modal Upsampling for Pansharpening.](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Probability-Based_Global_Cross-Modal_Upsampling_for_Pansharpening_CVPR_2023_paper.pdf)" CVPR, 2023.
 
